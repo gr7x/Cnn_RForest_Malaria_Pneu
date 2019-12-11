@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/Documents/workspace/ai/FINAL_PROJ/built_nets/pmna/PNEUMONIA Test.tfl"
+all_model_checkpoint_paths: "/root/Documents/workspace/ai/FINAL_PROJ/built_nets/pmna/PNEUMONIA Test.tfl"
